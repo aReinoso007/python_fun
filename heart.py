@@ -28,7 +28,7 @@ def txt():
 	pen.setpos(-68, 95) 
 	pen.down() 
 	pen.color('black') 
-	pen.write("Love you bitch", font=( 
+	pen.write("Love you", font=( 
 	"Verdana", 12, "bold")) 
 
 heart() 
